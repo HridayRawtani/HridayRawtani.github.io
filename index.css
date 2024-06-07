@@ -1,0 +1,18 @@
+body {
+    background-image: linear-gradient(rgba(28, 41, 81, 0.9), rgba(255, 0, 0, 0.4)), url(Images/background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+h1 {
+    color: rgba(130,200,200,1);
+}
+
+th {
+    color: rgba(240,240,240,1);
+}
+
+td {
+    color: rgba(180,180,180,1)
+}
