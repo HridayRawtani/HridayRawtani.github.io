@@ -10,7 +10,10 @@ body {
     font-family: "Cactus Classical Serif", serif;
 }
 
-
+img {
+    float: right;
+    height: 75px;
+}
 
 h1 {
     font-size: 3.0vw;
@@ -21,6 +24,32 @@ h1 {
     border-bottom: 2px solid white;
     margin: 0px 39%;
     margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(50,50,50);
+}
+
+.btn {
+    float: left;
+    padding: 5px 10px;
+    background-color: rgba(255, 192, 203);
+    border-radius: 10px;
+    margin-right: 10px; 
+    font-size: 1.2vw;
+    border: 2px solid rgba(175, 112, 123);
+}
+
+.btn:hover,
+.btn:active{
+    float: left;
+    padding: 5px 10px;
+    background-color: rgba(225, 162, 173);
+    border-radius: 10px;
+    margin-right: 10px; 
+    font-size: 1.2vw;
+    border: 2px solid rgba(175, 112, 123);
 }
 
 table {
