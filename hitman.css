@@ -1,7 +1,43 @@
 body {
-    background-image: linear-gradient(rgba(0,255,0,0.4), rgba(0,0,255,0.3)), url(Images/try.jpg);
+    background-image: linear-gradient(rgba(0,125,255,0.3), rgba(0,255,255,0.3)), url(Images/try.jpg);
+    background-image: linear-gradient(rgba(0,125,255,0.3), rgba(0,255,255,0.3)), url(Images/try.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: center;
     font-family:"Outfit", sans-serif;
 }
+
+h1 {
+    color: rgba(0,20,50);
+    font-weight: 500;
+    font-size: 3vw;
+    margin: 10px 0px;
+}
+
+h2 {
+    color: rgba(0,20,50);
+    font-weight: 300;
+    font-size: 2.5vw;
+    margin: 10px 0px;
+}
+
+ol{
+    margin: 0px;
+}
+
+ul {
+    font-weight: 200;
+    font-size: 1.2vw;
+}
+
+ul li {
+    margin-bottom: 3px;
+}
+.btn {
+    float:left;
+    background-color: cyan ;
+    border-radius: 10px;
+    border-color: cyan;
+}
+    
+    
