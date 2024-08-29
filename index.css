@@ -1,11 +1,7 @@
-html {
-    height: 100%;
-    width: 100%;
-}
 
 html{
-    background-image: linear-gradient(rgba(28, 41, 81, 0.9), rgba(255, 0, 0, 0.4)), url(Images/background.jpg);
-    background-size: 100% 100%;
+    background-image: url(Images/background.jpg);
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     font-family: "Cactus Classical Serif", serif;
