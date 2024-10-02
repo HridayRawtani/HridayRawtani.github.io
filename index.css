@@ -116,11 +116,3 @@ td {
     table {
         font-size: 5px;
     }
-}
-
-@media only screen and (max-width: 300px)
-{
-    table {
-        font-size: 3px;
-    }
-}
